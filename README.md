@@ -9,8 +9,8 @@ The linear regression package includes three functions: coefficients of multiple
 devtools::install_github("https://github.com/wenfeim/biostat625-hw3-linearregression.package/tree/master")
 ```
 ## coefficients(X,Y)
-# The coefficients function could calculate coefficients of multiple linear regression
-# Example
+### The coefficients function could calculate coefficients of multiple linear regression
+#### Example
 Y <- c(5,7,10,5)
 X1 <- c(1,2,3,4)
 X2 <- c(2,3,4,6)
