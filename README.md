@@ -12,9 +12,13 @@ devtools::install_github("https://github.com/wenfeim/biostat625-hw3-linearregres
 ### The coefficients function could calculate coefficients of multiple linear regression
 #### Example
 Y <- c(5,7,10,5)
+
 X1 <- c(1,2,3,4)
+
 X2 <- c(2,3,4,6)
+
 X <- cbind(1,X1,X2)
+
 coefficients(X,Y)
 
 ## 
