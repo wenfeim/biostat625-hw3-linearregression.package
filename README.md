@@ -34,3 +34,11 @@ X <- cbind(1,X1,X2)
 
 Residuals(X,Y)
 
+## fitted_values()
+### The fitted_values function counld calculate fitted values of simple linear regression
+#### Example
+X <- c(1,2,3,4)
+
+Y <- c(2,3,4,5)
+
+fitted_values(X,Y)
