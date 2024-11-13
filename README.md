@@ -8,4 +8,5 @@ The linear regression package includes three functions: coefficients of multiple
 ```r
 devtools::install_github("https://github.com/wenfeim/biostat625-hw3-linearregression.package/tree/master")
 ```
+## coefficients(X,Y)
 
