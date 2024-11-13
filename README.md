@@ -3,3 +3,4 @@
   <!-- badges: end -->
 # Linear regression packpage for BIOSTAT625 homework 3
 The linear regression package includes three functions: coefficients of multiple linear regression; Residuals of multiple linear regression and fitted_values of simple linear regression
+# How to use
